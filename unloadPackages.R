@@ -1,0 +1,1 @@
+detach("package:ggplot2", unload=TRUE)
